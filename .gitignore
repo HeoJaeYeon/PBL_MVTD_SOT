@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+
+/data/
+/datasets/
+/dataset/
+
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+wandb/
+logs/
+results/
+
+# local notes (not for GitHub)
+/LOSS_IMPROVEMENT_NOTES.md
